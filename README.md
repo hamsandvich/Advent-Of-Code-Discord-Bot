@@ -25,5 +25,5 @@ This will Check the private leader board and post every 15 mins the changes that
 4. Fill in your cookie session .env
 5. Put your leader board .JSON url in the .env
 6. make sure the above packages are installed
-7. Start your node server "$ node index.js"
+7. Start your node server "node index.js"
 8. in the discord you want to post the leaderboard type !start
