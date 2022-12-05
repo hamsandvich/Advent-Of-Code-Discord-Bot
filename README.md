@@ -3,10 +3,15 @@ This bot is for posting updates from your private leaderboard to discord
 
 ## Requriments
 Node js 
+
 Discord.js 
+
 dotenv
+
 node-corn
+
 node-fetch
+
 ## Example
 This will Check the private leader board and post every 15 mins the changes that been made since it last check and the current leaderboard.
 
