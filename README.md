@@ -6,11 +6,11 @@ Node js
 
 Discord.js 
 
-dotenv
+Fotenv
 
-node-corn
+Node-corn
 
-node-fetch
+Node-fetch
 
 ## Example
 This will Check the private leader board and post every 15 mins the changes that been made since it last check and the current leaderboard.
